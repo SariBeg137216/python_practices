@@ -2,21 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a7825c-e482-49ad-b087-6d5f8ace1d8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/divident_by_five.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downward_pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_index_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/income_tax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odd_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removechar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_number_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/file_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/five_float_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/format_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/input_from_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/new_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/read_line_of_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/seperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/three_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/mid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +98,8 @@
       <recent name="$PROJECT_DIR$/ecomsite" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.power_function">
-    <configuration name="downward_pyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.8">
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/downward_pyramid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="income_tax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/income_tax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiplication_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/power_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.power_function" />
-        <item itemvalue="Python.downward_pyramid" />
-        <item itemvalue="Python.multiplication_table" />
-        <item itemvalue="Python.income_tax" />
-        <item itemvalue="Python.reverse_digit" />
+        <item itemvalue="Python.8" />
+        <item itemvalue="Python.7" />
+        <item itemvalue="Python.6" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.4" />
       </list>
     </recent_temporary>
   </component>
