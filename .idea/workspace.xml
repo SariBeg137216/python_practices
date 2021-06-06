@@ -2,52 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a7825c-e482-49ad-b087-6d5f8ace1d8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/empty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/file_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/five_float_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/format_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/input_from_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/new_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/read_line_of_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/seperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/three_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/mid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/BINARY_TREE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/I-O.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/JSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Link_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Link_List_Doubly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/PRiority_QUEUE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/QUEUE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/QUEUE_BY_ARRAY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Randoms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/STacK_QUeue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Stack_by_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bin_tree_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/date_and_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/name.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date_Time_exercises/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review/ArrAys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_exercises/9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/divident_by_five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/divisors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downward_pyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_index_character.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/five_float_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/format_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/input_from_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/new_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/read_line_of_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/seperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/three_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/income_tax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiplication_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odd_even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/power_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/removechar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_digit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_number_checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +142,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ecomsite" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.8">
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BINARY_TREE">
+    <configuration name="BINARY_TREE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/BINARY_TREE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PRiority_QUEUE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/PRiority_QUEUE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QUEUE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/QUEUE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QUEUE_BY_ARRAY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/QUEUE_BY_ARRAY.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Stack_by_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/Stack_by_Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8" />
-        <item itemvalue="Python.7" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.5" />
-        <item itemvalue="Python.4" />
+        <item itemvalue="Python.BINARY_TREE" />
+        <item itemvalue="Python.PRiority_QUEUE" />
+        <item itemvalue="Python.QUEUE_BY_ARRAY" />
+        <item itemvalue="Python.QUEUE" />
+        <item itemvalue="Python.Stack_by_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -236,5 +284,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore and requirements" />
     <option name="LAST_COMMIT_MESSAGE" value="add gitignore and requirements" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
